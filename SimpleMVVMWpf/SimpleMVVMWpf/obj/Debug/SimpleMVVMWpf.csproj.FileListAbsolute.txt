@@ -1,0 +1,16 @@
+D:\samples\Samples on MVVM\SimpleMVVMWpf\SimpleMVVMWpf\obj\Debug\MainWindow.g.cs
+D:\samples\Samples on MVVM\SimpleMVVMWpf\SimpleMVVMWpf\obj\Debug\App.g.cs
+D:\samples\Samples on MVVM\SimpleMVVMWpf\SimpleMVVMWpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\samples\Samples on MVVM\SimpleMVVMWpf\SimpleMVVMWpf\obj\Debug\SimpleMVVMWpf_MarkupCompile.cache
+D:\samples\Samples on MVVM\SimpleMVVMWpf\SimpleMVVMWpf\obj\Debug\SimpleMVVMWpf_MarkupCompile.lref
+D:\samples\Samples on MVVM\SimpleMVVMWpf\SimpleMVVMWpf\obj\Debug\SimpleMVVMWpf.csprojAssemblyReference.cache
+C:\Users\mohanvel.v\Documents\Visual Studio 2017\Projects\WpfApp2\WPFSimpleMVVM\bin\Debug\SimpleMVVMWpf.exe.config
+C:\Users\mohanvel.v\Documents\Visual Studio 2017\Projects\WpfApp2\WPFSimpleMVVM\bin\Debug\SimpleMVVMWpf.exe
+C:\Users\mohanvel.v\Documents\Visual Studio 2017\Projects\WpfApp2\WPFSimpleMVVM\bin\Debug\SimpleMVVMWpf.pdb
+D:\samples\Samples on MVVM\SimpleMVVMWpf\SimpleMVVMWpf\obj\Debug\MainWindow.baml
+D:\samples\Samples on MVVM\SimpleMVVMWpf\SimpleMVVMWpf\obj\Debug\SimpleMVVMWpf.g.resources
+D:\samples\Samples on MVVM\SimpleMVVMWpf\SimpleMVVMWpf\obj\Debug\SimpleMVVMWpf.Properties.Resources.resources
+D:\samples\Samples on MVVM\SimpleMVVMWpf\SimpleMVVMWpf\obj\Debug\SimpleMVVMWpf.csproj.GenerateResource.cache
+D:\samples\Samples on MVVM\SimpleMVVMWpf\SimpleMVVMWpf\obj\Debug\SimpleMVVMWpf.csproj.CoreCompileInputs.cache
+D:\samples\Samples on MVVM\SimpleMVVMWpf\SimpleMVVMWpf\obj\Debug\SimpleMVVMWpf.exe
+D:\samples\Samples on MVVM\SimpleMVVMWpf\SimpleMVVMWpf\obj\Debug\SimpleMVVMWpf.pdb
